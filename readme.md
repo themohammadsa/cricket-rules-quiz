@@ -18,7 +18,7 @@ A CLI application -- quiz on the topic of "Cricket Rules"
 
 "How well do you know me?"
 
-https://repl.it/@themohammadsa/Tanay-Live-Quiz?embed=1&output=1#index.js
+https://repl.it/@themohammadsa/Cricket-Rules-Quiz?embed=1&output=1
 
 ********
 
